@@ -1,14 +1,38 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/code.jpg"
+imageAlt: ""
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+👔 I see myself as a critical thinker with exceptional problem solving capabilities and as the person that has an eye for details. I <u>love learning new things</u> and improving what I already know. I have experience in working remotely with multi cultural team.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+👨🏼‍💻 I am focusing on <u>Backend development</u> but I have experience and love working on Frontend as well. I consider myself a <u>Full Stack developer</u>.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+📲 I am proficient with following technologies:
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+- Typescript, Javascript
+- NodeJS
+- NestJS
+- ReactJS
+- NextJS
+- GatsbyJS
+- CSS, SASS (CSS in JS solutions)
+- HTML
+- Git
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+🛠 I worked(am working) with following tools/technologies:
+
+- JSON
+- MaterialUI
+- Styled components
+- Express.js
+- THREE.js
+- Framer Motion
+- React Spring
+- Figma, AdobeXD
+- MongoDB
+- Jest, React testing library
+- Electron
+
+🧍🏼 About me:
+
+I've been coding ever since I was fifteen, making simple HTML and CSS websites. After getting enough experience and perfecting my development skills, I landed my first freelance job in 2019, where I created a website as a front end web developer. After that, I had a steady flow of clients approaching me for creation of websites, web applications and e-commerce websites.
