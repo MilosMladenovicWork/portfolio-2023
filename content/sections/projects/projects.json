@@ -24,6 +24,32 @@
     },
     {
       "visible": true,
+      "category": "Web application",
+      "title": "Scheduled app",
+      "description": "Full stack application with authentication, managing schedule time of users in different time zones. Used for scheduling events between multiple users.",
+      "tags": ["NextJS","MaterialUI", "NestJS", "TypeORM", "PostgreSQL"],
+      "image": {
+        "src": "../../images/scheduled.png",
+        "alt": "Scheduled landing page",
+        "linkTo": "https://scheduledapp.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/MilosMladenovicWork/scheduler-backend"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/MilosMladenovicWork/scheduler-frontend"
+        },
+        {
+          "type": "external",
+          "url": "https://scheduledapp.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Website",
       "title": "Fiducia Real estate agency",
       "description": "Website built with high customizability in mind. Client can change order of sections, insert/remove sections, change data on every page through Prismic CMS.",
